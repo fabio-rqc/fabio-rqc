@@ -21,3 +21,6 @@ Após essa etapa, dediquei-me a cursinhos preparatórios, pois sempre tive vonta
 </p>
 
 ---
+
+###🤖 treinando programação/ pseudocódigo visualG
+
