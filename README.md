@@ -1,3 +1,2 @@
 # 🎮Fábio
-
-**´formando em análise e desenvolvimento de sistemas´**
+**`formando em análise e desenvolvimento de sistemas`**
