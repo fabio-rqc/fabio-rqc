@@ -23,4 +23,9 @@ Após essa etapa, dediquei-me a cursinhos preparatórios, pois sempre tive vonta
 ---
 
 ###🤖 treinando programação/ pseudocódigo visualG
-
+https://www.linkedin.com/in/f%C3%A1bio-costa-junior-9a144a38b/
+<div id="badges">
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-costa-junior-9a144a38b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>  
