@@ -29,3 +29,4 @@ https://www.linkedin.com/in/f%C3%A1bio-costa-junior-9a144a38b/
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>  
+Site: https://sites.google.com/view/fbio-roberto-queiroz-costa-jni/p%C3%A1ginainicial (link do meu site)
