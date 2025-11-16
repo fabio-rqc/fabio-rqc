@@ -30,7 +30,15 @@ https://www.linkedin.com/in/f%C3%A1bio-costa-junior-9a144a38b/
   </a>
 </div> 
 
-Site: https://sites.google.com/view/fbio-roberto-queiroz-costa-jni/p%C3%A1ginainicial (link do meu site)
+ https://sites.google.com/view/fbio-roberto-queiroz-costa-jni/p%C3%A1ginainicial (link do meu site)
+ <img src="https://img.shields.io/badge/Site-green?style=for-the-badge&logo=Site&logoColor=white" alt="Site Badge"/>
+  </a>
+</div>  
+
+
 
 (Projeto ceub) https://docs.google.com/document/d/1jf8KcsGaoSwT7CWNweS9fsXP2NcssaDE/edit?usp=sharing&ouid=113006589410546807156&rtpof=true&sd=true
+ <img src="https://img.shields.io/badge/Projeto-CEUB-purple?style=for-the-badge&logo=Projeto-CEUB&logoColor=white" alt="Projeto-CEUB Badge"/>
+  </a>
+</div>  
 
