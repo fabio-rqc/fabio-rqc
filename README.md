@@ -28,5 +28,9 @@ https://www.linkedin.com/in/f%C3%A1bio-costa-junior-9a144a38b/
   <a href="https://www.linkedin.com/in/f%C3%A1bio-costa-junior-9a144a38b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>  
+</div> 
+
 Site: https://sites.google.com/view/fbio-roberto-queiroz-costa-jni/p%C3%A1ginainicial (link do meu site)
+
+(Projeto ceub) https://docs.google.com/document/d/1jf8KcsGaoSwT7CWNweS9fsXP2NcssaDE/edit?usp=sharing&ouid=113006589410546807156&rtpof=true&sd=true
+
