@@ -22,7 +22,7 @@ Após essa etapa, dediquei-me a cursinhos preparatórios, pois sempre tive vonta
 
 ---
 
-###🤖 treinando programação/ pseudocódigo visualG
+###🤖 treinando programação/ Buscando domínio na linguagem JAVA / Domínio de SQL. 
 https://www.linkedin.com/in/f%C3%A1bio-costa-junior-9a144a38b/
 <div id="badges">
   <a href="https://www.linkedin.com/in/f%C3%A1bio-costa-junior-9a144a38b/">
